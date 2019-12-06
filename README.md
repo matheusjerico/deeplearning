@@ -1,3 +1,3 @@
-# deeplearning
+# Cadernos Jupyter Notebook utilizados para treinamento de modelos de ML/DL
 
-Códigos utilizados para treinamento de modelos Random Forest, Regressão Logística, LSTM, CNN
+Autor: Matheus Jericó Palhares
